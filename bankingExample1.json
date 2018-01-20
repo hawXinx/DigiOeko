@@ -1,0 +1,19 @@
+{"order":{
+	"id":335,
+	"date":"2018-01-05",
+	"items":[
+		{"item":{
+			"id":1,
+			"product":1,
+			"amount":1,
+			"price":0.5
+			}},
+		{"item":{
+			"id":2,
+			"product":688,
+			"amount":2,
+			"price":0.25
+			}}
+		]
+	}
+}
